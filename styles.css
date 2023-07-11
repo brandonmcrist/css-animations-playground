@@ -1,0 +1,22 @@
+body {
+    background-color: rgba(0, 0, 0, 0.5)
+}
+
+.div-red-circle {
+    display: block;
+    width: auto;
+    height: auto;
+}
+
+.red-circle {
+    align-self: center;
+    background-color: rgba(255, 0, 0, 0.8);
+    width: 10%;
+    height: 15%;
+    border-radius: 50%;
+    border: double;
+}
+
+@keyframes red-circle {
+    
+}
